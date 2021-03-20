@@ -9,7 +9,7 @@ And it's part of Udacity Nanodegree in Web Development Professional Track, JS Co
 3-By scrolling, the section in the viewport get detected and stylized
 
 
-###Technologies Used
+##Technologies Used
 1- HTML5
 2- CSS3
 3- Javascript (ES6, Ecmascript2015, and it's other nicknames )
